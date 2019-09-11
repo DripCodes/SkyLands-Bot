@@ -1,0 +1,7 @@
+{
+  "token": process.env.TOKEN ,
+  "prefix": "sky",
+  "botOwner": "230837919093489665",
+  "roles.muted": "muted",
+  "channels.warn": "warnings"
+}
